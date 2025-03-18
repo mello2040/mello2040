@@ -1,4 +1,4 @@
-## Olá me chamo Nathan de Mello 
+## Olá me chamo Nathan de Mello Dias
 
 # 💫 About Me:
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre - FIAP) <br/><br>🛡️ Entusiasta de Cibersegurança & Back-end <br/><br>📚 Apaixonado por aprendizado contínuo e resolução de problemas complexos <br/><br>💻 Linguagens: Java ☕ | JavaScript 🟨 <br/><br>🗄️ Banco de Dados: SQL (MySQL, PostgreSQL) <br/><br>📂 Controle de Versão: Git & GitHub <br/><br>🖥️ Outras Tecnologias: API REST | Spring Boot | Node.js <br/>
